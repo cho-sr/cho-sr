@@ -4,11 +4,15 @@
      ========================= -->
 
 <h2 align="center">cho-sr</h2>
-
+<p align="center">
+  Undergraduate student focusing on deployable ML projects in CV and edge environments.<br/>
+</p>
 <p align="center">
   <a href="https://cho-sr.github.io/"><b>Portfolio</b></a> ·
   <a href="https://huggingface.co/cho-sr"><b>Hugging Face</b></a>
 </p>
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cho-sr/cho-sr/output/pacman-contribution-graph-dark.svg">
@@ -26,52 +30,38 @@
 
 ## Experiences
 
-
-- Undergraduate Researcher, Prof. Jinwoo Gong (2025.12–Present)  
-
-- **Hansung University** (2021–Present)
-
-  IT Convergence Engineering · Intelligent Systems Track
-
+<div style="border-left:2px solid #2f2f2f; padding-left:14px; margin-left:6px;">
+  <ul>
+    <li>
+      Undergraduate Researcher, Prof. Jinwoo Gong / 2025.12 – Present
+    </li>
+     <li>LG Aimers 4th / 2024.01 – 2024.03</li>
+    <li>BoostCourse Coaching Study 13th / 2023.10 – 2023.11</li>
+    <li>
+      Hansung University, IT Convergence Engineering (Intelligent Systems Track) / 2021 – Present
+    </li>
+  </ul>
+</div>
 
 ## Projects & Activities
 
-<details>
-  <summary><b>Federated Learning–based Image Classification (Edge FL)</b></summary>
+<div style="border-left:2px solid #2f2f2f; padding-left:14px; margin-left:6px;">
+  <ul>
+    <li>
+      Federated Learning–based Image Classification (Edge FL), <a href="https://github.com/cho-sr/jetson-fedlearning">Code</a> / 2025.12
+    </li>
+     <li>
+      SmolVLM Hair Diagnosis & Recommendation, <a href="https://github.com/cho-sr/SmolVLM_hair_tuning">Code</a> / 2025.12
+    </li>
+    <li>
+      AR Tattoo System (Real-time Overlay), <a href="https://github.com/cho-sr/25-1_CV">Code</a> / 2025.07
+    </li>
+    <li>
+      Marine Observation Data Processing System (Kotlin OOP), <a href="https://github.com/cho-sr/24-2_OOP">Code</a> / 2024.12
+    </li>
+  </ul>
+</div>
 
-- Built and evaluated a federated learning pipeline on Jetson devices under non-IID settings.
-- Tech: PyTorch, Federated Learning, Jetson (Edge)
-- Code: https://github.com/cho-sr/jetson-fedlearning
-
-</details>
-
-<details>
-  <summary><b>AR Tattoo System (Real-time Overlay)</b></summary>
-
-- Implemented real-time tattoo overlay with ROI constraints and masking to improve stability and placement quality.
-- Tech: OpenCV, MediaPipe
-- Code: https://github.com/cho-sr/25-1_CV
-
-</details>
-
-<details>
-  <summary><b>SmolVLM Hair Diagnosis & Recommendation</b></summary>
-
-- Fine-tuned a lightweight multimodal model (SmolVLM) for hair-length classification and generated structured care recommendations.
-- Tech: Transformers, QLoRA/LoRA, PyTorch
-- Code: https://github.com/cho-sr/SmolVLM_hair_tuning
-
-</details>
-
-<details>
-  <summary><b>OOP (Java)</b></summary>
-
-- Console-base program that collects data from the Korea Meteorological Administration (KMA) marine observation API and analyzes helicopter takeoff feasibility using significant wave height, wind speed, and temperature.
-
-- Tech: Kotlin, OkHttp, Jackson (CSV/XML/JSON), xChart
-- Code: https://github.com/cho-sr/24-2_OOP
-
-</details>
 
 ## Publications
 - **S. Cho*** and **T. Kim*** (2025).  

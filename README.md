@@ -1,22 +1,20 @@
 <!-- =========================
      cho-sr · Profile README
-     CV-style + Pretty Layout
+     CV-style (clean)
      ========================= -->
 
-<h2 align="center">cho-sr 👋</h2>
+<h2 align="center">cho-sr</h2>
 
 <p align="center">
   <a href="https://cho-sr.github.io/"><b>Portfolio</b></a> ·
   <a href="https://huggingface.co/cho-sr"><b>Hugging Face</b></a>
 </p>
 
-
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=700&lines=Multimodal+(VLM)+%C2%B7+On-device+AI;%EC%9E%91%EA%B2%8C+%EB%A7%8C%EB%93%A4%EA%B3%A0+%EB%B9%A0%EB%A5%B4%EA%B2%8C+%EA%B2%80%EC%A6%9D%ED%95%98%EA%B8%B0" />
-  </a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cho-sr/cho-sr/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cho-sr/cho-sr/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cho-sr/cho-sr/output/pacman-contribution-graph.svg">
+</picture>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -26,82 +24,65 @@
 
 <hr/>
 
-<table>
-  <tr>
-    <td width="60%">
-      <h3>🧾 Resume Snapshot</h3>
-      <ul>
-        <li><b>Education</b>: Hansung University (IT Convergence · Intelligent Systems) — <i>2021–Present</i></li>
-        <li><b>Focus</b>: Lightweight VLM, Edge/On-device inference, CV applications, Federated Learning</li>
-        <li><b>Style</b>: Build small → validate fast → deployable demo</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="100%" />
-    </td>
-  </tr>
-</table>
+## Experiences
 
-<hr/>
 
-## Education
-- **Hansung University** (2021–Present)  
+- Undergraduate Researcher, Prof. Jinwoo Gong (2025.12–Present)  
+
+- **Hansung University** (2021–Present)
+
   IT Convergence Engineering · Intelligent Systems Track
-
-## Research Experience
-- **Undergraduate Researcher, Prof. Jinwoo Gong Lab** (YYYY.MM–Present)  
-  - Interests: Federated Learning, Multimodal/VLM, on-device inference and optimization  
-  - Work: experiment design/implementation, evaluation, documentation (reports/posters/papers)
 
 
 ## Projects & Activities
-- **Federated Learning–based Image Classification (Edge FL)**  
-  Built and evaluated a federated learning pipeline using Jetson devices under non-IID settings.  
-  Tech: PyTorch, Jetson, FL  
-  Code: https://github.com/cho-sr/REPO_FL
 
-- **AR Tattoo System (Real-time Overlay)**  
-  Implemented body-part masking and ROI-constrained placement to stabilize real-time overlay.  
-  Tech: OpenCV, MediaPipe  
-  Code: https://github.com/cho-sr/REPO_AR_TATTOO
+<details>
+  <summary><b>Federated Learning–based Image Classification (Edge FL)</b></summary>
 
-- **IoT Smart Home System (MQTT)**  
-  Designed a smart-home workflow with MQTT-based device control and monitoring.  
-  Tech: MQTT, IoT  
-  Code: https://github.com/cho-sr/REPO_IOT
+- Built and evaluated a federated learning pipeline on Jetson devices under non-IID settings.
+- Tech: PyTorch, Federated Learning, Jetson (Edge)
+- Code: https://github.com/cho-sr/jetson-fedlearning
 
-- **Marine Observation Data Processing System**  
-  Integrated public weather/marine APIs and implemented rule-based analysis for operational decisions.  
-  Tech: Kotlin, Public API, Data Processing  
-  Code: https://github.com/cho-sr/REPO_OCEAN
+</details>
 
-- **LG Aimers (Cohort 4)**  
-  Practice-driven ML problem solving program (team collaboration).
+<details>
+  <summary><b>AR Tattoo System (Real-time Overlay)</b></summary>
 
-- **BoostCourse Coaching Study (Cohort 13)**  
-  Data analysis and ML study activities with project-based learning.
+- Implemented real-time tattoo overlay with ROI constraints and masking to improve stability and placement quality.
+- Tech: OpenCV, MediaPipe
+- Code: https://github.com/cho-sr/25-1_CV
 
+</details>
+
+<details>
+  <summary><b>SmolVLM Hair Diagnosis & Recommendation</b></summary>
+
+- Fine-tuned a lightweight multimodal model (SmolVLM) for hair-length classification and generated structured care recommendations.
+- Tech: Transformers, QLoRA/LoRA, PyTorch
+- Code: https://github.com/cho-sr/SmolVLM_hair_tuning
+
+</details>
+
+<details>
+  <summary><b>OOP (Java)</b></summary>
+
+- Console-base program that collects data from the Korea Meteorological Administration (KMA) marine observation API and analyzes helicopter takeoff feasibility using significant wave height, wind speed, and temperature.
+
+- Tech: Kotlin, OkHttp, Jackson (CSV/XML/JSON), xChart
+- Code: https://github.com/cho-sr/24-2_OOP
+
+</details>
 
 ## Publications
 - **S. Cho*** and **T. Kim*** (2025).  
   *Evaluating Generalization and Data Leakage in Large Language Models via Data Perturbation.*  
   In *Proceedings of the Korean Institute of Electrical Engineers (IEIE) Autumn Conference 2025.*  
-  Paper: PAPER_LINK
+  [PAPER](https://github.com/cho-sr/cho-sr.github.io/blob/main/papers/Evaluating%20Generalization%20and%20Data%20Leakage%20in%20Large%20Language%20Models%20via%20Data%20Perturbation..pdf)
 
-
----
+<hr/>
 
 <p align="left">
   <a href="https://solved.ac/cho020218/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cho020218" />
   </a>
 </p>
-
----
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cho-sr/cho-sr/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cho-sr/cho-sr/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cho-sr/cho-sr/output/pacman-contribution-graph.svg">
-</picture>
-
-

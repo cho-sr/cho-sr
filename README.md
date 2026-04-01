@@ -8,7 +8,7 @@
   Undergraduate student focusing on deployable ML projects in CV and edge environments.<br/>
 </p>
 <p align="center">
-  <a href="https://cho-sr.github.io/"><b>Portfolio</b></a> ·
+  <a href="https://cho-sr.github.io/"><b>Portfolio</b></a> 
   <a href="https://huggingface.co/cho-sr"><b>Hugging Face</b></a>
 </p>
 

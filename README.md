@@ -71,8 +71,8 @@
 
 <hr/>
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://solved.ac/cho020218/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cho020218" />
   </a>
-</p>
+</p> -->

@@ -48,16 +48,17 @@
 <div style="border-left:2px solid #2f2f2f; padding-left:14px; margin-left:6px;">
   <ul>
     <li>
-      Federated Learning–based Image Classification (Edge FL), <a href="https://github.com/cho-sr/jetson-fedlearning">Code</a> / 2025.12
+      Jenson based federated learning, Hansung University, <a href="https://github.com/cho-sr/jetson-fedlearning">Code</a> / 2025.12
     </li>
      <li>
-      SmolVLM Hair Diagnosis & Recommendation, <a href="https://github.com/cho-sr/SmolVLM_hair_tuning">Code</a> / 2025.12
+      SmolVLM-256M QLoRA Fine-tuning for Hair Recommendation, <a href="https://github.com/cho-sr/SmolVLM_hair_tuning">Code</a> / 2025.12
     </li>
     <li>
-      AR Tattoo System (Real-time Overlay), <a href="https://github.com/cho-sr/25-1_CV">Code</a> / 2025.07
+      Real-time AR Tattoo Simulation System Based on Gesture Interaction, Hansung University, <a href="https://github.com/cho-sr/25-1_CV">Code</a> / 2025.07
     </li>
     <li>
-      Marine Observation Data Processing System (Kotlin OOP), <a href="https://github.com/cho-sr/24-2_OOP">Code</a> / 2024.12
+      Korea Meteorological Administration's Marine Observation API-Based Helicopter Operation
+Judgment System, Hansung University, <a href="https://github.com/cho-sr/24-2_OOP">Code</a> / 2024.12
     </li>
   </ul>
 </div>

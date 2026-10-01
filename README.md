@@ -79,7 +79,10 @@ Judgment System, Hansung University, <a href="https://github.com/cho-sr/24-2_OOP
   In *Proceedings of the Korean Institute of Electrical Engineers (IEIE) Autumn Conference 2025.*  
   [PAPER](https://github.com/cho-sr/cho-sr.github.io/blob/main/papers/Evaluating%20Generalization%20and%20Data%20Leakage%20in%20Large%20Language%20Models%20via%20Data%20Perturbation..pdf)
 
-<hr/>
+
+## Awards
+- Hansung University, Internet of Things Track Capstone Design Excellence Award (2nd place)
+- Hansung University, Intelligence System Track Capstone Design Excellence Award (2nd place)
 
 <!-- <p align="left">
   <a href="https://solved.ac/cho020218/">

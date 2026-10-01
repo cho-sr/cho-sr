@@ -33,7 +33,8 @@
 <div style="border-left:2px solid #2f2f2f; padding-left:14px; margin-left:6px;">
   <ul>
     <li>
-      Undergraduate Researcher, Prof. Jinwoo Gong / 2025.12 – Present
+      Undergraduate Researcher, HPCL Lab, Chung-ang University - Prof. Jinsung Kim / 2025.3 – Present
+      Undergraduate Researcher, TAC Lab, Hansung University - Prof. Jinu Gong / 2025.12 – Present
     </li>
      <li>LG Aimers 4th / 2024.01 – 2024.03</li>
     <li>BoostCourse Coaching Study 13th / 2023.10 – 2023.11</li>

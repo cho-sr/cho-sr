@@ -33,9 +33,11 @@
 <div style="border-left:2px solid #2f2f2f; padding-left:14px; margin-left:6px;">
   <ul>
     <li>
-      Undergraduate Researcher, HPCL Lab, Chung-ang University - Prof. Jinsung Kim / 2025.3 – Present
-      Undergraduate Researcher, TAC Lab, Hansung University - Prof. Jinu Gong / 2025.12 – Present
+      Undergraduate Researcher, Chung-ang Univ. - Prof. Jinsung Kim / 2025.3 – Present
     </li>
+     <li>
+                Undergraduate Researcher, Hansung Univ. - Prof. Jinu Gong / 2025.12 – Present
+     </li>
      <li>LG Aimers 4th / 2024.01 – 2024.03</li>
     <li>BoostCourse Coaching Study 13th / 2023.10 – 2023.11</li>
     <li>
@@ -48,6 +50,12 @@
 
 <div style="border-left:2px solid #2f2f2f; padding-left:14px; margin-left:6px;">
   <ul>
+    <li>
+      Pocket Coach: On-device AI Soccer Player Tracking System, Hansung University, <a href="https://github.com/cho-sr/Pocket-Coach">Code</a> / 2026.06
+    </li>
+    <li>
+      Video Qna: Multimodal Video Question Answering via Hybrid RAG, Hansung University, <a href="https://github.com/cho-sr/VideoQna">Code</a> / 2026.06
+    </li>   
     <li>
       Jenson based federated learning, Hansung University, <a href="https://github.com/cho-sr/jetson-fedlearning">Code</a> / 2025.12
     </li>
